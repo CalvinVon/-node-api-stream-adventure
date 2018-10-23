@@ -1,0 +1,4 @@
+I am text.txt
+here is my content:
+	Welcome to Stream Pipe Adventure!
+bye.
