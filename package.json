@@ -8,9 +8,12 @@
     "duplexer2": "^0.1.4",
     "request": "^2.88.0",
     "split": "^1.0.1",
+    "stream-combiner": "^0.2.2",
+    "tar": "^4.4.6",
     "through2": "^2.0.3",
     "trumpet": "^1.7.2",
-    "websocket-stream": "^5.1.2"
+    "websocket-stream": "^5.1.2",
+    "zlib": "^1.0.5"
   },
   "devDependencies": {},
   "scripts": {
